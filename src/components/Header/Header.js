@@ -46,7 +46,7 @@ import Carts from '../UI/cart/Carts';
                   <Button className='border-0 p-0 d-lg-none d-block' variant='none'>                  
                     <BsPerson style={{height: `30px`, width: `40px`, color: '#A82D49'}} />
                   </Button>
-                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <Navbar.Toggle aria-controls="shadow-none responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                   <Nav className="mx-auto fw-bold" style={{fontSize: `17px`}}>
                     <Nav.Link as={NavLink} to="/" style={{color:`#A82D49`}} className=''>Home</Nav.Link>
