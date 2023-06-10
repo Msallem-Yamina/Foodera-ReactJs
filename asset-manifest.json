@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodera-ReactJs/static/css/main.b104055d.css",
-    "main.js": "/Foodera-ReactJs/static/js/main.3a0b41e0.js",
+    "main.js": "/Foodera-ReactJs/static/js/main.12e81766.js",
     "static/js/787.35f14ba0.chunk.js": "/Foodera-ReactJs/static/js/787.35f14ba0.chunk.js",
     "static/media/banner-02.1d3252d3.jpg": "/Foodera-ReactJs/static/media/banner-02.1d3252d3.1d3252d35b78ec875fb7.jpg",
     "static/media/1-about.png": "/Foodera-ReactJs/static/media/1-about.b810024430d376b6bd6d.png",
@@ -33,11 +33,11 @@
     "static/media/bread(1).png": "/Foodera-ReactJs/static/media/bread(1).2fbb5c91c696e21efcb6.png",
     "index.html": "/Foodera-ReactJs/index.html",
     "main.b104055d.css.map": "/Foodera-ReactJs/static/css/main.b104055d.css.map",
-    "main.3a0b41e0.js.map": "/Foodera-ReactJs/static/js/main.3a0b41e0.js.map",
+    "main.12e81766.js.map": "/Foodera-ReactJs/static/js/main.12e81766.js.map",
     "787.35f14ba0.chunk.js.map": "/Foodera-ReactJs/static/js/787.35f14ba0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b104055d.css",
-    "static/js/main.3a0b41e0.js"
+    "static/js/main.12e81766.js"
   ]
 }
