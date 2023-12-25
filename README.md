@@ -1,8 +1,6 @@
 https://msallem-yamina.github.io/Foodera-ReactJs/
 ![foodera](https://github.com/Msallem-Yamina/Foodera-ReactJs/assets/38477281/b313c4b0-f3c1-4c27-89d8-918d4011fd4b)
 
-[screencapture-msallem-yamina-github-io-Foodera-ReactJs-Foods-2023-12-25-15_55_44.pdf](https://github.com/Msallem-Yamina/Foodera-ReactJs/files/13766535/screencapture-msallem-yamina-github-io-Foodera-ReactJs-Foods-2023-12-25-15_55_44.pdf)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
